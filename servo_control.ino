@@ -11,8 +11,8 @@ static const int servoPin2 = 12;
 static const int servoPin3 = 14;
 
 // Replace with your network credentials
-const char* ssid     = "Redmi 10";
-const char* password = "8178783919";
+const char* ssid     = "ssid";
+const char* password = "password";
 
 // Set web server port number to 80
 WiFiServer server(80);
