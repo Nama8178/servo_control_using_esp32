@@ -1,4 +1,4 @@
-# ESP32 Web-Based Servo Control for 3 Servos
+# ESP32 Web-Based Servo Control 
 
 This project allows you to control three servo motors connected to an ESP32 microcontroller through a web interface. Using Wi-Fi, the ESP32 sets up a web server, and you can access it via any device on the same network. The web page provides sliders to adjust each servo motor's angle independently.
 
