@@ -8,6 +8,10 @@ This project allows you to control three servo motors connected to an ESP32 micr
 - Sliders to control each servo's position from 0° to 180°.
 - Real-time feedback on slider values.
 
+## Demo
+![servo_control-ezgif com-rotate](https://github.com/user-attachments/assets/8f0eddfd-d09b-443c-9acb-c44b6e0791a7)
+
+
 ## Components
 
 - **ESP32**: Used to host the web server and control the servos.
